@@ -2,7 +2,7 @@
 	<head>
 		<title>Halaman Home &copy;</title>
 	</head>
-	<body background="gambar/1.2.jpg">
+	<body background="gambar/1.jpg">
 		<table width="100%" height="100%">
 			<tr>
 				<td align="center" valign="middle">
